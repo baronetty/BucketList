@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		B305CBBE2B4BF9E700DD766E /* Location.swift in Sources */ = {isa = PBXBuildFile; fileRef = B305CBBD2B4BF9E700DD766E /* Location.swift */; };
 		B305CBC02B4C0F2000DD766E /* EditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B305CBBF2B4C0F2000DD766E /* EditView.swift */; };
+		B35D853A2B4FE2C3006F3173 /* EditView-ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B35D85392B4FE2C3006F3173 /* EditView-ViewModel.swift */; };
 		B372E2122B35700200BBCA20 /* BucketListApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B372E2112B35700200BBCA20 /* BucketListApp.swift */; };
 		B372E2142B35700200BBCA20 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B372E2132B35700200BBCA20 /* ContentView.swift */; };
 		B372E2162B35700300BBCA20 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B372E2152B35700300BBCA20 /* Assets.xcassets */; };
@@ -20,6 +21,7 @@
 /* Begin PBXFileReference section */
 		B305CBBD2B4BF9E700DD766E /* Location.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Location.swift; sourceTree = "<group>"; };
 		B305CBBF2B4C0F2000DD766E /* EditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditView.swift; sourceTree = "<group>"; };
+		B35D85392B4FE2C3006F3173 /* EditView-ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "EditView-ViewModel.swift"; sourceTree = "<group>"; };
 		B372E20E2B35700200BBCA20 /* BucketList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BucketList.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B372E2112B35700200BBCA20 /* BucketListApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BucketListApp.swift; sourceTree = "<group>"; };
 		B372E2132B35700200BBCA20 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -61,8 +63,9 @@
 			children = (
 				B372E2112B35700200BBCA20 /* BucketListApp.swift */,
 				B372E2132B35700200BBCA20 /* ContentView.swift */,
-				B305CBBF2B4C0F2000DD766E /* EditView.swift */,
 				B3ADBE8B2B4EAF4100600399 /* ContentView-ViewModel.swift */,
+				B305CBBF2B4C0F2000DD766E /* EditView.swift */,
+				B35D85392B4FE2C3006F3173 /* EditView-ViewModel.swift */,
 				B305CBBD2B4BF9E700DD766E /* Location.swift */,
 				B3784AC02B4D33CF003D5F6A /* Result.swift */,
 				B372E2152B35700300BBCA20 /* Assets.xcassets */,
@@ -152,6 +155,7 @@
 				B372E2142B35700200BBCA20 /* ContentView.swift in Sources */,
 				B3ADBE8C2B4EAF4100600399 /* ContentView-ViewModel.swift in Sources */,
 				B3784AC12B4D33CF003D5F6A /* Result.swift in Sources */,
+				B35D853A2B4FE2C3006F3173 /* EditView-ViewModel.swift in Sources */,
 				B305CBBE2B4BF9E700DD766E /* Location.swift in Sources */,
 				B305CBC02B4C0F2000DD766E /* EditView.swift in Sources */,
 				B372E2122B35700200BBCA20 /* BucketListApp.swift in Sources */,
